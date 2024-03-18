@@ -1,0 +1,54 @@
+.body {
+    margin: 0;
+    padding: 0;
+}
+
+nav {
+    margin: 0;
+    padding: 0;
+}
+
+.navlink {
+
+.white-shadow {
+    color: white;
+    text-shadow: 2px 2px 4px black;
+}
+}
+
+.bg {
+    /* The image used */
+    background-color: black;
+    background-image: url("Electric-Eagle.png");
+    background-attachment:fixed;
+    /* Full height */
+    height: 100vh;
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+
+    }
+.nyhead {
+        font-size: 3.5em;
+        margin-top: 5%;
+    }
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    height: 100px;
+}
+.margin5 {
+    margin: 5px;
+}
+
+// <uniquifier>: Use a uniquifier for the class name
+// <weight>: Use a value from 200 to 700
+
+// <uniquifier>: Use a uniquifier for the class name
+// <weight>: Use a value from 200 to 700
+
+.oswald {
+  font-family: "Oswald", sans-serif;
+}
