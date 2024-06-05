@@ -174,7 +174,6 @@ function setup() {
     vertex(161,23);
     vertex(195,144);
     endShape(CLOSE);
-    scale(.5,1.3)
 
 
     //thickness of the line
